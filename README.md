@@ -29,6 +29,13 @@
 - 🌐🌍 **Multilingual Support**: Experience NeuroChat in your preferred language with our internationalization (i18n) support.
 ## How to Install 🚀
 
+### Minimum system requirements for its execution:
+
+1. 8GB of VRAM
+2. 12GB of RAM
+3. CPU with 6 cores
+4. 25GB of storage (depending on the models we want to use)
+
 ### Quick Start with Docker 🐳
 
 > [!TIP]  
